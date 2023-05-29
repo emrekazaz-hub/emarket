@@ -22,7 +22,7 @@ function App() {
     setLoad(true);
     setTimeout(() => {
       setLoad(false);
-    }, 4000);
+    }, 3000);
   }, []);
 
   return (

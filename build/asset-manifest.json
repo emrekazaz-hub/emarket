@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/emarkettingonline/static/css/main.ed820734.css",
+    "main.js": "/emarkettingonline/static/js/main.1e30e9f7.js",
+    "static/js/787.801482bc.chunk.js": "/emarkettingonline/static/js/787.801482bc.chunk.js",
+    "static/media/ipad-reverse-convert.mp4": "/emarkettingonline/static/media/ipad-reverse-convert.8b5ebe37152a226e9b5f.mp4",
+    "static/media/gif": "/emarkettingonline/static/media/7bdf164aaed98d4336084d0b33e3e588.e8a3e4e018974c0295ec.gif",
+    "static/media/iphone.mp4": "/emarkettingonline/static/media/iphone.b7dafac8ccc80e6785e1.mp4",
+    "static/media/Adsiztasarim.mp4": "/emarkettingonline/static/media/Adsiztasarim.b7c10261097a1c1c833d.mp4",
+    "static/media/wp4823412.png": "/emarkettingonline/static/media/wp4823412.7a1a8d04f15df3fa3679.png",
+    "static/media/iphone-14-pro-finish-unselect-gallery-1-202209_GEO_EMEA.jpg": "/emarkettingonline/static/media/iphone-14-pro-finish-unselect-gallery-1-202209_GEO_EMEA.ec10984afd091801dab2.jpg",
+    "static/media/apple-watch-colors.jpeg": "/emarkettingonline/static/media/apple-watch-colors.2e32d59220adc3396a75.jpeg",
+    "static/media/gps-lte__gi7uzrvkt5e2_og.png": "/emarkettingonline/static/media/gps-lte__gi7uzrvkt5e2_og.a060542703b320d2e659.png",
+    "static/media/shopping-cart-loading.gif": "/emarkettingonline/static/media/shopping-cart-loading.bbbee71669d8443177f2.gif",
+    "static/media/og-macbook-pro-202301.jpg": "/emarkettingonline/static/media/og-macbook-pro-202301.4a9652b728609c6be111.jpg",
+    "static/media/intro__ewz1ro7xs14y_large.jpg": "/emarkettingonline/static/media/intro__ewz1ro7xs14y_large.5c9d5b48210883a8cde5.jpg",
+    "static/media/daac540d-cel1351-p.jpg": "/emarkettingonline/static/media/daac540d-cel1351-p.09efbbb016c7558a747b.jpg",
+    "static/media/Apple-iPad-10th-gen-hero-221018.jpg.og.jpg": "/emarkettingonline/static/media/Apple-iPad-10th-gen-hero-221018.jpg.og.1511a65849785ad3831a.jpg",
+    "static/media/Apple-AirPods-Pro-2nd-gen-hero-220907_big.jpg.large.jpg": "/emarkettingonline/static/media/Apple-AirPods-Pro-2nd-gen-hero-220907_big.jpg.large.31b7c78d5d822d2eeb33.jpg",
+    "index.html": "/emarkettingonline/index.html",
+    "main.ed820734.css.map": "/emarkettingonline/static/css/main.ed820734.css.map",
+    "main.1e30e9f7.js.map": "/emarkettingonline/static/js/main.1e30e9f7.js.map",
+    "787.801482bc.chunk.js.map": "/emarkettingonline/static/js/787.801482bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed820734.css",
+    "static/js/main.1e30e9f7.js"
+  ]
+}
