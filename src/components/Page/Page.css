@@ -1,0 +1,18 @@
+.h2-tag{
+    color: aliceblue;
+    font-size: 96px;
+}
+
+#carouselExample {
+    height: 100vh;
+  }
+  
+  .carousel-item {
+    height: 100%;
+  }
+  
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+  }
+  
