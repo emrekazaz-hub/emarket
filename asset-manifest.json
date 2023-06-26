@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/emarket/static/css/main.712ca22b.css",
-    "main.js": "/emarket/static/js/main.47ff5d64.js",
+    "main.js": "/emarket/static/js/main.440bf383.js",
     "static/js/787.801482bc.chunk.js": "/emarket/static/js/787.801482bc.chunk.js",
     "static/media/videoplayback.mp4": "/emarket/static/media/videoplayback.2afc828d7cb73a926e56.mp4",
     "static/media/AppleAirPods - Official Trailer.mp4": "/emarket/static/media/AppleAirPods - Official Trailer.c7f504158f672fba541f.mp4",
@@ -23,11 +23,11 @@
     "static/media/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.og.jpg": "/emarket/static/media/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.og.c36d1cb68630eb68bb6c.jpg",
     "index.html": "/emarket/index.html",
     "main.712ca22b.css.map": "/emarket/static/css/main.712ca22b.css.map",
-    "main.47ff5d64.js.map": "/emarket/static/js/main.47ff5d64.js.map",
+    "main.440bf383.js.map": "/emarket/static/js/main.440bf383.js.map",
     "787.801482bc.chunk.js.map": "/emarket/static/js/787.801482bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712ca22b.css",
-    "static/js/main.47ff5d64.js"
+    "static/js/main.440bf383.js"
   ]
 }
