@@ -1,15 +1,24 @@
 import React from "react";
 import "./Load.css";
-import imageLoad from "../Images/7bdf164aaed98d4336084d0b33e3e588.gif";
 import { Images } from "../Images/Images";
 
 const Load = () => {
   return (
-    <div className="d-flex flex-column align-items-center justify-content-center vh-100">
-      <img className="image-loader" src={Images[0].ImageCartLoading} alt="imageLoad" />
-      <h2 className="image-loader-h2">Loading...</h2>
+    <div>
+      <div
+        className="d-flex flex-column align-items-center justify-content-center vh-100"
+        style={{ backgroundColor: "#0d0e10" }}
+      >
+        <h2 className="image-loader-h2-header">Welcome to WooX</h2>
+        <img
+          className="image-loader"
+          src={Images[0].ImageCartLoading2}
+          alt="imageLoad"
+        />
+        <h2 className="image-loader-h2">Loading...</h2>
+      </div>
     </div>
   );
-}
+};
 
 export default Load;

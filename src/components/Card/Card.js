@@ -8,6 +8,8 @@ import appleWatchImg2 from "../Images/apple-watch-colors.jpeg";
 import appleIpadImg from "../Images/Apple-iPad-10th-gen-hero-221018.jpg.og.jpg";
 import appleMacBooxIMg from "../Images/og-macbook-pro-202301.jpg";
 import appleAirpodsImg from "../Images/wp4823412.png";
+import { Images } from "../Images/Images";
+
 import "./Card.css";
 
 const Card = () => {
@@ -36,7 +38,7 @@ const Card = () => {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src={appleWatchImg}
+              src={Images[0].ImageAppleWatch}
               className="img-fluid"
               alt="appleWatchImg"
               style={{ width: "100%", height: "1000px" }}
@@ -44,7 +46,7 @@ const Card = () => {
           </div>
           <div className="carousel-item">
             <img
-              src={appleIphoneImg}
+              src={Images[0].ImageIphone2}
               className="img-fluid"
               alt="appleIphoneImg"
               style={{ width: "100%", height: "1000px" }}
@@ -52,7 +54,7 @@ const Card = () => {
           </div>
           <div className="carousel-item">
             <img
-              src={appleWatchImg2}
+              src={Images[0].ImageAppleWatch2}
               className="img-fluid"
               alt="appleWatchImg2"
               style={{ width: "100%", height: "1000px" }}
@@ -60,7 +62,7 @@ const Card = () => {
           </div>
           <div className="carousel-item">
             <img
-              src={appleIpadImg}
+              src={Images[0].ImageIPad}
               className="img-fluid"
               alt="appleIpadImg"
               style={{ width: "100%", height: "1000px" }}
@@ -68,7 +70,7 @@ const Card = () => {
           </div>
           <div className="carousel-item">
             <img
-              src={appleMacBooxIMg}
+              src={Images[0].ImageMacBook}
               className="img-fluid"
               alt="appleMacBooxIMg"
               style={{ width: "100%", height: "1000px" }}
@@ -76,47 +78,12 @@ const Card = () => {
           </div>
           <div className="carousel-item">
             <img
-              src={appleAirpodsImg}
+              src={Images[0].ImageAirpods3}
               className="img-fluid"
               alt="appleAirpodsImg"
               style={{ width: "100%", height: "1000px" }}
             />
           </div>
-        </div>
-      </div>
-
-      {/* AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA */}
-      <div className="card text-bg-dark" style={{ border: "none" }}>
-        <img src={appleIphoneImg} className="card-img" alt="appleIphoneImg" />
-        <div className="card-img-overlay" style={{ color: "black" }}>
-          <h5 className="card-title">Card title</h5>
-          <p className="card-text">
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
-          </p>
-          <p className="card-text">
-            <small>Last updated 3 mins ago</small>
-          </p>
-          <button type="button" className="btn btn-secondary">
-            Secondary
-          </button>
-        </div>
-      </div>
-
-      <div className="card text-bg-dark">
-        <img src={appleWatchImg2} alt="appleWatchImg2" />
-        <div className="card-img-overlay">
-          <h5 className="card-title">Card title</h5>
-          <p className="card-text">
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
-          </p>
-          <p className="card-text">
-            <small>Last updated 3 mins ago</small>
-          </p>
-          <button type="button" className="btn btn-secondary">
-            Secondary
-          </button>
         </div>
       </div>
 
@@ -133,7 +100,7 @@ const Card = () => {
             style={{ maxWidth: "48rem" }}
           >
             <img
-              src={appleWatchImg}
+              src={Images[0].ImageAppleWatch}
               className="card-img-top"
               alt="appleWatchImg"
               style={{ objectFit: "cover", height: "500px" }}
@@ -148,26 +115,11 @@ const Card = () => {
             style={{ maxWidth: "48rem" }}
           >
             <img
-              src={appleIphoneImg}
+              src={Images[0].ImageIphone2}
               className="card-img-top"
               alt="..."
               style={{ objectFit: "cover", height: "500px" }}
               onClick={() => handleCardClick("/IPhonePage")}
-            />
-          </div>
-        </div>
-
-        <div className="col d-flex justify-content-center">
-          <div
-            className="card card-hover card-center"
-            style={{ maxWidth: "48rem" }}
-          >
-            <img
-              src={appleWatchImg2}
-              className="card-img-top"
-              alt="..."
-              style={{ objectFit: "cover", height: "500px" }}
-              onClick={() => handleCardClick("/WatchPage")}
             />
           </div>
         </div>

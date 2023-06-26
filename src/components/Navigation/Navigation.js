@@ -3,7 +3,6 @@ import { Link, useMatch, useResolvedPath, useNavigate } from "react-router-dom";
 import { ShoppingCart, IconContext } from "phosphor-react";
 import { ProductAirpods } from "../Products/ProductAirpods/ProductAirpods";
 import { ProductIPad } from "../Products/ProductIPad/ProductIPad";
-import { ProductIPhone } from "../Products/ProductIphone/ProductIphone";
 import { ProductMacBook } from "../Products/ProductMacBook/ProductMacBook";
 import { ProductWatch } from "../Products/ProductWatch/ProductWatch";
 
@@ -14,7 +13,6 @@ const Navigation = () => {
   const allProducst = [
     ...ProductAirpods,
     ...ProductIPad,
-    ...ProductIPhone,
     ...ProductMacBook,
     ...ProductWatch,
   ];

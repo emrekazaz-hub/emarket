@@ -1,3 +1,9 @@
 .image-loader-h2 {
-  color: black;
+  color: white;
+}
+
+.image-loader-h2-header{
+  color: white;
+  font-size: 66px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }

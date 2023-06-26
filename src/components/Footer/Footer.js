@@ -65,7 +65,7 @@ const Footer = () => {
                 </p>
                 <p>
                   <a href="#!" className="text-reset">
-                    MacBoox
+                    MacBook
                   </a>
                 </p>
               </div>
@@ -104,10 +104,10 @@ const Footer = () => {
                   woox@gmail.com
                 </p>
                 <p>
-                  <i className="fas fa-phone me-3"></i> + 90 552 655 75 82
+                  <i className="fas fa-phone me-3"></i> +905526557582
                 </p>
                 <p>
-                  <i className="fas fa-print me-3"></i> + 377 48 155 671
+                  <i className="fas fa-print me-3"></i> +38348155671
                 </p>
               </div>
             </div>

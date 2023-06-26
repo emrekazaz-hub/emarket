@@ -1,4 +1,3 @@
-import ImageMacBook from "./og-macbook-pro-202301.jpg";
 import { useCart } from "../../CartContext/CartContext";
 import "./StyleProductMacBook.css";
 import { Images } from "../../Images/Images";
@@ -7,44 +6,44 @@ import { Images } from "../../Images/Images";
 export const ProductMacBook = [
   {
     id: "1mac",
-    name: "MacBookPro",
+    name: "MacBookPro 1",
     price: 1,
-    details: "cok guzel pc",
+    details: "details about macbook 1",
     image: Images[0].ImageMacBook
   },
   {
     id: "2mac",
-    name: "HP Pavilion",
+    name: "MacBookPro 2",
     price: 2,
-    details: "cok guzel pc",
+    details: "details about macbook 2",
     image: Images[0].ImageMacBook,
   },
   {
     id: "3mac",
-    name: "Siuuuuuuuu",
+    name: "MacBookPro 3",
     price: 3,
-    details: "cok guzel pc",
+    details: "details about macbook 3",
     image: Images[0].ImageMacBook,
   },
   {
     id: "4mac",
-    name: "Siuuuuuuuu",
+    name: "MacBookPro 4",
     price: 3,
-    details: "cok guzel pc",
+    details: "details about macbook 4",
     image: Images[0].ImageMacBook,
   },
   {
     id: "5mac",
-    name: "Siuuuuuuuu",
+    name: "MacBookPro 5",
     price: 3,
-    details: "cok guzel pc",
+    details: "details about macbook 5",
     image: Images[0].ImageMacBook,
   },
   {
     id: "6mac",
-    name: "Siuuuuuuuu",
+    name: "MacBookPro 6",
     price: 3,
-    details: "cok guzel pc",
+    details: "details about macbook 6",
     image: Images[0].ImageMacBook,
   },
 ];

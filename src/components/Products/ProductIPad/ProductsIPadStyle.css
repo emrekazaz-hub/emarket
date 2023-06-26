@@ -1,0 +1,11 @@
+.custom-card-container .card {
+    opacity: 0;
+    transform: translateY(-200px);
+    transition: opacity 1s, transform 1s;
+  }
+  
+  .custom-card-container .card.animate {
+    opacity: 1;
+    transform: translateY(-450px);
+  }
+  
