@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/emarket/static/css/main.712ca22b.css",
-    "main.js": "/emarket/static/js/main.0cf30dd0.js",
+    "main.js": "/emarket/static/js/main.47ff5d64.js",
     "static/js/787.801482bc.chunk.js": "/emarket/static/js/787.801482bc.chunk.js",
     "static/media/videoplayback.mp4": "/emarket/static/media/videoplayback.2afc828d7cb73a926e56.mp4",
     "static/media/AppleAirPods - Official Trailer.mp4": "/emarket/static/media/AppleAirPods - Official Trailer.c7f504158f672fba541f.mp4",
     "static/media/ipad-reverse-convert.mp4": "/emarket/static/media/ipad-reverse-convert.8b5ebe37152a226e9b5f.mp4",
     "static/media/iphone.mp4": "/emarket/static/media/iphone.b7dafac8ccc80e6785e1.mp4",
     "static/media/Adsiztasarim.mp4": "/emarket/static/media/Adsiztasarim.b7c10261097a1c1c833d.mp4",
+    "static/media/404-page-of-blazor-wasm-on-gh-pages-00.png": "/emarket/static/media/404-page-of-blazor-wasm-on-gh-pages-00.5ca83cbd0a2b603219e1.png",
     "static/media/wp4823412.png": "/emarket/static/media/wp4823412.7a1a8d04f15df3fa3679.png",
     "static/media/iphone-14-pro-finish-unselect-gallery-1-202209_GEO_EMEA.jpg": "/emarket/static/media/iphone-14-pro-finish-unselect-gallery-1-202209_GEO_EMEA.ec10984afd091801dab2.jpg",
     "static/media/apple-watch-colors.jpeg": "/emarket/static/media/apple-watch-colors.2e32d59220adc3396a75.jpeg",
@@ -22,11 +23,11 @@
     "static/media/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.og.jpg": "/emarket/static/media/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.og.c36d1cb68630eb68bb6c.jpg",
     "index.html": "/emarket/index.html",
     "main.712ca22b.css.map": "/emarket/static/css/main.712ca22b.css.map",
-    "main.0cf30dd0.js.map": "/emarket/static/js/main.0cf30dd0.js.map",
+    "main.47ff5d64.js.map": "/emarket/static/js/main.47ff5d64.js.map",
     "787.801482bc.chunk.js.map": "/emarket/static/js/787.801482bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712ca22b.css",
-    "static/js/main.0cf30dd0.js"
+    "static/js/main.47ff5d64.js"
   ]
 }
